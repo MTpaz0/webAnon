@@ -6,6 +6,6 @@ proxychains firefox www.duckduckgo.com
 
 sudo systemctl stop tor
 
-echo "Completado con exito..."
+echo "Servicio terminado con exito..."
 
 exit
